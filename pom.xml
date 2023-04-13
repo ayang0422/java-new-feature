@@ -10,6 +10,8 @@
   <name>java-new-feature</name>
   <modules>
     <module>java9</module>
+      <module>java10</module>
+    <module>java11</module>
   </modules>
 
   <properties>

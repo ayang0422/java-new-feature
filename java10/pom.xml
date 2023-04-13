@@ -7,23 +7,17 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>java9</artifactId>
+    <artifactId>java10</artifactId>
     <packaging>jar</packaging>
 
-    <name>java9</name>
-    <url>http://maven.apache.org</url>
+    <name>java10</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>3.8.1</version>
-            <scope>test</scope>
-        </dependency>
+
     </dependencies>
 
     <build>
@@ -33,10 +27,9 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <release>9</release>
+                    <release>10</release>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 </project>

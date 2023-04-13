@@ -9,6 +9,7 @@
 ### 新特性
 
 #### java 9
+
 - [模块化](./java9/oop-module-1/README.md)
 - [引入新版本字符串格式（New Version-String Scheme）](./java9/README.md#2-新的版本字符串格式)
 - [jshell-工具](./java9/README.md#3-jshell-工具)
@@ -18,6 +19,16 @@
 - [Optional 类改进](./java9/README.md#7-optional-类改进)
 - [多版本兼容Jar包(Multi-Release JAR)](./java9/README.md#8-多版本兼容jar包--multi-release-jar-)
 - [三个新的工厂方法](./java9/README.md#9-三个新的工厂方法)
+
+#### java 10
+
+- [不可变集合的改进](./java10/README.md#1-不可变集合的改进-icuzhetengimmutablecollectiontest)
+- [var 关键字](./java10/README.md#2-var-关键字)
+- [线程本地握手](./java10/README.md#3-线程本地握手thread-local-handshakes)
+- [Optional.orElseThrow()](./java10/README.md#4-optionalorelsethrow--)
+- [G1的并行 Full GC ](./java10/README.md#5-g1的并行-full-gc)
+- [根证书](./java10/README.md#6-根证书)
+- [基于时间的发行版本控制](./java10/README.md#7-基于时间的发行版本控制)
     
 ### 备注
 本项目直接使用JDK17作为基础依赖，其余JDK版本可以在对应子工程的pom中指定，特定方法的编译和运行可以执行特定的JDK版本
