@@ -17,7 +17,7 @@
 - [私有接口方法](./java9/README.md#5-私有接口方法)
 - [Stream API 的增强](./java9/README.md#6-stream-api-的增强)
 - [Optional 类改进](./java9/README.md#7-optional-类改进)
-- [多版本兼容Jar包(Multi-Release JAR)](./java9/README.md#8-多版本兼容jar包--multi-release-jar-)
+- [多版本兼容Jar包(Multi-Release JAR)](./java9/README.md#8-多版本兼容jar包multi-release-jar)
 - [三个新的工厂方法](./java9/README.md#9-三个新的工厂方法)
 
 #### java 10
@@ -25,8 +25,8 @@
 - [不可变集合的改进](./java10/README.md#1-不可变集合的改进-icuzhetengimmutablecollectiontest)
 - [var 关键字](./java10/README.md#2-var-关键字)
 - [线程本地握手](./java10/README.md#3-线程本地握手thread-local-handshakes)
-- [Optional.orElseThrow()](./java10/README.md#4-optionalorelsethrow--)
-- [G1的并行 Full GC ](./java10/README.md#5-g1的并行-full-gc)
+- [Optional.orElseThrow()](./java10/README.md#4-optionalorelsethrow)
+- [G1的并行 Full GC ](./java10/README.md#5-g1的并行-full-gc-)
 - [根证书](./java10/README.md#6-根证书)
 - [基于时间的发行版本控制](./java10/README.md#7-基于时间的发行版本控制)
 
