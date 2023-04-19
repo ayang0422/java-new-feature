@@ -40,6 +40,18 @@
 - [可以直接运行 java 文件](./java11/README.md#6-可以直接运行-java-文件)
 - [可扩展的低延迟垃圾收集器（实验性质）](./java11/README.md#7-可扩展的低延迟垃圾收集器实验性质)
 - [Flight Recorder(飞行记录器)](./java11/README.md#8-flight-recorder飞行记录器)
+
+#### java 12
+
+- [支持 Unicode 11](./java12/README.md#1-支持-unicode-11)
+- [在 Linux 系统上支持 POSIX_SPAWN](./java12/README.md#2-在-linux-系统上支持-posixspawn)
+- [JVM Constants API](./java12/README.md#3-jvm-constants-api)
+- [支持压缩数字格式](./java12/README.md#4-支持压缩数字格式)
+- [支持日本新年号的方形字符](./java12/README.md#5-支持日本新年号的方形字符)
+- [ZGC 并发类卸载](./java12/README.md#6-zgc-并发类卸载)
+- [HotSpot Windows 操作系统检测正确识别 Windows Server 2019](./java12/README.md#7-hotspot-windows-操作系统检测正确识别-windows-server-2019)
+- [新的 JFR 安全事件](./java12/README.md#8-新的-jfr-安全事件)
+- [switch 表达式可以有返回值](./java12/README.md#9-switch-表达式可以有返回值预览版)
     
 ### 备注
 本项目直接使用JDK17作为基础依赖，其余JDK版本可以在对应子工程的pom中指定，特定方法的编译和运行可以执行特定的JDK版本
