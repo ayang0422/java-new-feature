@@ -3,7 +3,7 @@
 本项目总结java9-17的新特性
 
 ### 背景
-由于企业有新的项目开发，并准备机遇JDK17作为基础，故调研JDK9-17新增的新特性。
+由于企业有新的项目开发，并准备机遇JDK17作为基础，故调研JDK9-17新增的重要新特性。
 对于新增的特性，我都会写一个简单的demo去总结新特性，使自己充分了解新特性，保证印象深刻。
 
 ### 新特性
@@ -52,6 +52,15 @@
 - [HotSpot Windows 操作系统检测正确识别 Windows Server 2019](./java12/README.md#7-hotspot-windows-操作系统检测正确识别-windows-server-2019)
 - [新的 JFR 安全事件](./java12/README.md#8-新的-jfr-安全事件)
 - [switch 表达式可以有返回值](./java12/README.md#9-switch-表达式可以有返回值预览版)
+
+#### java 13
+
+- [文本块（预览功能）](./java13/README.md#1-文本块预览功能)
+- [Switch 表达式扩展（预览功能）](./java13/README.md#2-switch-表达式扩展预览功能)
+- [SocketAPI 重构](./java13/README.md#3-socketapi-重构)
+- [ZGC 优化](./java13/README.md#4-zgc-优化)
+- [动态 CDS 存档](./java13/README.md#5-动态-cds-存档)
+- [杂项](./java13/README.md#6-杂项)
     
 ### 备注
 本项目直接使用JDK17作为基础依赖，其余JDK版本可以在对应子工程的pom中指定，特定方法的编译和运行可以执行特定的JDK版本
