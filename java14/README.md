@@ -85,7 +85,9 @@ Java 14 中对 instanceof 的改进，主要目的是为了创建对象更简单
 Record 类型允许在代码中使用紧凑的语法形式来声明类，而这些类能够作为不可变数据类型的封装持有者。
 Record 这一特性主要用在特定领域的类上；与枚举类型一样，Record 类型是一种受限形式的类型，主要用于存储、保存数据，并且没有其它额外自定义行为的场景下。
 
-[instanceof 匹配](../java16/src/main/java/icu/zheteng/RecordDemo.java)
+
+
+[Record 类型](../java16/src/main/java/icu/zheteng/RecordDemo.java)
 
 ### 9. 文本块（第二预览版本）
 
