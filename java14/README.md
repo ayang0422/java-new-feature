@@ -19,7 +19,7 @@ Exception in thread "main" java.lang.NullPointerException: Cannot invoke "icu.zh
 	at icu.zheteng.NullDemo.main(NullDemo.java:10)
 ```
 
-### 3. G1 de  NUMA 可识别内存分配
+### 3. G1 的 NUMA 可识别内存分配
 
 Java 14 改进非一致性内存访问（NUMA）系统上的 G1 垃圾收集器的整体性能，主要是对年轻代的内存分配进行优化，从而提高 CPU 计算过程中内存访问速度。
 
